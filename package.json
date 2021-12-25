@@ -1,0 +1,26 @@
+{
+  "name": "agenciadeviajesnode",
+  "version": "1.0.0",
+  "description": "Proyecto con Node.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "type": "module",
+  "author": "Jasser romero ramirez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3",
+    "pug": "^3.0.2",
+    "sequelize": "^7.0.0-alpha.2"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
