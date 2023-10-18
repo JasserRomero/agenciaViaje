@@ -1,4 +1,6 @@
 # agenciaViaje
 **Proyecto practica Agencia de Viaje** - JavaScript, Node, Express, Pug, Bootstrap
---Node
---JavaScript
+  
+  --Node
+  
+  --JavaScript
